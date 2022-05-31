@@ -27,4 +27,9 @@ Tugas
 
 Implementasikan konsep modularisasi pada kode program praktikum 8 tentang database, sehingga setiap halamannya memiliki template tampilan yang sama.
 
-image
+![image](https://user-images.githubusercontent.com/101730390/171215554-b938b367-cbf2-447a-82b5-5037cbfd7735.png)
+![image](https://user-images.githubusercontent.com/101730390/171215603-c802506b-784c-4915-9975-958059dc3801.png)
+
+Hasil Browser
+![image](https://user-images.githubusercontent.com/101730390/171215808-34109b0b-0bd3-41a5-b6c5-a75f686d3cd0.png)
+
